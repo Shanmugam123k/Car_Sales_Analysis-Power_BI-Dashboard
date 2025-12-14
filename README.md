@@ -2,8 +2,11 @@
 The goal of this project is to help stakeholders understand how different car companies and dealer regions contribute to overall revenue, and how customer preferences such as color and transmission impact sales volume.
 
 Dataset Description
-The dataset contains car sales records with customer and dealership information.​
+
+The dataset contains car sales records with customer and dealership information.
+​
 Key columns include:
+
 Company, Model, Body_Style
 Dealer_Name, Dealer_Region
 Price, Annual_Income
